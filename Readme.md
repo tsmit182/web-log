@@ -1,3 +1,3 @@
-## Yo, I'm a Readme
+## Web-Log
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+A blogging application created with Backbone.js
